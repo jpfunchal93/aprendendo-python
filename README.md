@@ -28,6 +28,7 @@ Desenvolver conhecimentos em programação Python, praticando lógica de program
 | Ficheiro | Descrição |
 |---|---|
 | `exercicio2.py` | Calculadora de despesas: total e média de gastos |
+| `exercicio3.py` | Verificação de frutas numa lista utilizando condicionais |
 
 ## 🚀 Sobre o projeto
 
